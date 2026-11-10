@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Emmanuel 👋
 
-<!--
-**emmanuelmutua620-coder/emmanuelmutua620-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Digital Data Associate | AI & Data Services | Web Research
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a digital data professional based in Kenya with practical experience in AI data services, data annotation, OCR review, data entry, and web research.
+
+### 💻 Skills & Expertise
+
+- AI Data Annotation and Labelling
+- OCR Review and Document Quality Assurance
+- Data Entry and Data Management
+- Web Research and Information Verification
+- Transcription and Data Processing
+- Microsoft Excel and Google Workspace
+- Wildlife Management and Conservation Research
+
+### 🚀 What I'm Working On
+
+- Building practical digital skills.
+- Developing data management and research projects.
+- Exploring Artificial Intelligence and machine learning.
+- Documenting wildlife conservation research.
+
+### 🎯 Career Interests
+
+Remote Digital Jobs | AI Training | Data Operations | Virtual Assistance | Web Research
+
+### 📫 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/emmanuel-mutua-4140833b3](https://www.linkedin.com/in/emmanuel-mutua-4140833b3)
+- Location: Kenya
+
+Thanks for visiting my profile!
