@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel 👋
 
-### Digital Data Associate | AI & Data Services | Web Research
+### Digital Data Consultant | AI & Data Services | Web Research
 
 Welcome to my GitHub profile!
 
